@@ -8,7 +8,7 @@ public class ListarFicheroCollection {
 
 
 	        File ruta = new File(".");
-	        listarFichero(ruta);
+	        listarFichero(ruta); //
 	      
 	        
 	        
