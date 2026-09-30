@@ -1,0 +1,12 @@
+Escrito con BufferedWriter0
+Escrito con BufferedWriter1
+Escrito con BufferedWriter2
+Escrito con BufferedWriter3
+Escrito con BufferedWriter4
+Escrito con BufferedWriter5
+Escrito con BufferedWriter6
+Escrito con BufferedWriter7
+Escrito con BufferedWriter8
+Escrito con BufferedWriter9
+Escrito con BufferedWriter10
+*
